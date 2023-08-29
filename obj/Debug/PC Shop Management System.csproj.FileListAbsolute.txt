@@ -1,0 +1,102 @@
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\bin\Debug\PC Shop Management System.exe.config
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\bin\Debug\PC Shop Management System.exe
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\bin\Debug\PC Shop Management System.pdb
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC Shop Management System.csproj.AssemblyReference.cache
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC Shop Management System.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.Admin.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.DataEntryOperator.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.Login.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.Manager.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.Properties.Resources.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.SalesMan.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC Shop Management System.csproj.GenerateResource.cache
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC Shop Management System.csproj.CoreCompileInputs.cache
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC Shop Management System.exe
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC Shop Management System.pdb
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\bin\Debug\FontAwesome.Sharp.dll
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC Shop Management System.csproj.CopyComplete
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.discountsOrCuponnAdminUF.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.employeeAdminUF.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.DashboardAdminUF.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.NoticeManager.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.noticeAdmin.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.noticeDEO.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.noticeSalesMan.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.productsAdminUF.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.salarySheetAdminUF.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.passwordsAdminUF.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.forgetPassword.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.accountSettingsAdmin.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.accountSettingsDataEntryOperator.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.accountSettingsManager.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.accountSettingsSalesman.resources
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\bin\Debug\Databases\PCShopDB.mdf
+D:\OneDrive\Shahriar Mahmud Toha\PC\Documents\Main Files\GitRep\Academic\5thSemesterAcademicCodes\PC Shop Management System\PC Shop Management System\bin\Debug\Databases\PCShopDB_log.ldf
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\bin\Debug\Databases\PCShopDB.mdf
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\bin\Debug\Databases\PCShopDB_log.ldf
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\bin\Debug\PC Shop Management System.exe.config
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\bin\Debug\PC Shop Management System.exe
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\bin\Debug\PC Shop Management System.pdb
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC Shop Management System.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC Shop Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.accountSettingsAdmin.resources
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.accountSettingsDataEntryOperator.resources
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.accountSettingsManager.resources
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.Admin.resources
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.DashboardAdminUF.resources
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.DataEntryOperator.resources
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.discountsOrCuponnAdminUF.resources
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.employeeAdminUF.resources
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.forgetPassword.resources
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.Login.resources
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.Manager.resources
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.noticeAdmin.resources
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.noticeDEO.resources
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.noticeManager.resources
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.noticeSalesMan.resources
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.passwordsAdminUF.resources
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.productsAdminUF.resources
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.salarySheetAdminUF.resources
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.SalesMan.resources
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.accountSettingsSalesman.resources
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC Shop Management System.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC Shop Management System.csproj.CopyComplete
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC Shop Management System.exe
+C:\Users\ASUS\Desktop\PC Shop Management System\PC Shop Management System\obj\Debug\PC Shop Management System.pdb
+G:\PC Shop Management System\PC Shop Management System\bin\Debug\Databases\PCShopDB.mdf
+G:\PC Shop Management System\PC Shop Management System\bin\Debug\Databases\PCShopDB_log.ldf
+G:\PC Shop Management System\PC Shop Management System\bin\Debug\PC Shop Management System.exe.config
+G:\PC Shop Management System\PC Shop Management System\bin\Debug\PC Shop Management System.exe
+G:\PC Shop Management System\PC Shop Management System\bin\Debug\PC Shop Management System.pdb
+G:\PC Shop Management System\PC Shop Management System\bin\Debug\FontAwesome.Sharp.dll
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC Shop Management System.csproj.AssemblyReference.cache
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC Shop Management System.csproj.SuggestedBindingRedirects.cache
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.accountSettingsAdmin.resources
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.accountSettingsDataEntryOperator.resources
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.accountSettingsManager.resources
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.Admin.resources
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.DashboardAdminUF.resources
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.DataEntryOperator.resources
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.discountsOrCuponnAdminUF.resources
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.employeeAdminUF.resources
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.forgetPassword.resources
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.Login.resources
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.Manager.resources
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.noticeAdmin.resources
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.noticeDEO.resources
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.noticeManager.resources
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.noticeSalesMan.resources
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.passwordsAdminUF.resources
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.productsAdminUF.resources
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.Properties.Resources.resources
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.salarySheetAdminUF.resources
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.SalesMan.resources
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC_Shop_Management_System.accountSettingsSalesman.resources
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC Shop Management System.csproj.GenerateResource.cache
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC Shop Management System.csproj.CoreCompileInputs.cache
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC Shop Management System.csproj.CopyComplete
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC Shop Management System.exe
+G:\PC Shop Management System\PC Shop Management System\obj\Debug\PC Shop Management System.pdb
